@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Singrax
-- 👀 I’m interested in making games!
-- 🌱 I’m currently learning GameMaker
-- 📫 How to reach me ... victor.marques@a.colegiovaccaro.com.br 
+- 👀 I’m interested in learning Gamedev!
+- 🌱 I’m currently learning C#
+- 📫 How to reach me: singraxsm@gmail.com
 
 <!---
 Singrax/Singrax is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
